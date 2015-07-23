@@ -1,11 +1,12 @@
 <?php
 /*
-Plugin Name: Simple Announcements
-Plugin URI: http://wp.tutsplus.com
-Description: A simple announcements plugin.
+Plugin Name: Child Domain Identifier
+Plugin URI: https://github.com/klgrimley/child-domain-identifier
+Description: Identifies which domain of a multisite install is currently active
 Version: 1.0
-Author: Aleksandra Laczek
-Author URI: http://webtuts.pl
+Author: Kevin Grimley
+Credit: modified from tutsplus
+Author URI: kevingrimley.com
 */
 
 include 'multisite-query.php';
